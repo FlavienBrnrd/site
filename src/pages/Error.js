@@ -1,11 +1,11 @@
 import React from 'react';
 
-const About = function About() {
+const Error = function Error() {
     return (
         < div >
-            Hello from About
+            Hello from Error
         </div >
     );
 }
 
-export default About;
+export default Error;
