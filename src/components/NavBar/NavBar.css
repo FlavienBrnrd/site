@@ -1,7 +1,27 @@
-.NavBar h1 {
-    
+.NavBar {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    border-bottom: 1px solid #aeb8fe;
+}
+
+.NavBar h3 {
+    color: #27187e;
+    padding-left: 10px;
+}
+
+.NavBar .links {
+    margin-left: auto;
 }
 
 .NavBar a {
     text-decoration: none;
+    padding-right: 10px;
+    margin-left: 16px;
+}
+
+.NavBar a:hover {
+    color: #ff8600;
+    text-decoration: underline;
 }

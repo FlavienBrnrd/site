@@ -1,0 +1,12 @@
+.Footer {
+    padding: auto;
+    background-color: #758bfd;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.Footer span {
+    color: #27187e;
+}
