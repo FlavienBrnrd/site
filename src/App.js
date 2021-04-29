@@ -10,6 +10,7 @@ import Footer from './components/Footer/Footer';
 // Styles
 import './App.css';
 import './components/NavBar/NavBar.css';
+import './components/Footer/Footer.css';
 
 // Main entry point
 function App() {
