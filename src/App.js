@@ -1,14 +1,17 @@
-import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
-// custom import
+// Components
 import Home from './pages/Home';
 import About from './pages/About';
 import Error from './pages/Error';
 import NavBar from './components/NavBar/NavBar';
 import Footer from './components/Footer/Footer';
 
+// Styles
+import './App.css';
+import './components/NavBar/NavBar.css';
 
+// Main entry point
 function App() {
   return (
     <Router>
