@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 /* Extended Array */
 [{"name":"Persian Indigo","hex":"27187e","rgb":[39,24,126],"cmyk":[69,81,0,51],"hsb":[249,81,49],"hsl":[249,68,29],"lab":[18,39,-54]},{"name":"Cornflower Blue","hex":"758bfd","rgb":[117,139,253],"cmyk":[54,45,0,1],"hsb":[230,54,99],"hsl":[230,97,73],"lab":[61,24,-59]},{"name":"Maximum Blue Purple","hex":"aeb8fe","rgb":[174,184,254],"cmyk":[31,28,0,0],"hsb":[233,31,100],"hsl":[233,98,84],"lab":[76,12,-36]},{"name":"Cultured","hex":"f1f2f6","rgb":[241,242,246],"cmyk":[2,2,0,4],"hsb":[228,2,96],"hsl":[228,22,95],"lab":[96,0,-2]},{"name":"Dark Orange","hex":"ff8600","rgb":[255,134,0],"cmyk":[0,47,100,0],"hsb":[32,100,100],"hsl":[32,100,50],"lab":[68,40,75]}]
+=======
+https://coolors.co/011627-fdfffc-2ec4b6-e71d36-ff9f1c
+>>>>>>> master

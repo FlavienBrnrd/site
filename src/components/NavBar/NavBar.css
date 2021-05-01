@@ -1,6 +1,7 @@
 .NavBar {
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     max-width: 1200px;
     margin: auto;
     border-bottom: 1px solid #aeb8fe;
@@ -9,6 +10,24 @@
 .NavBar h3 {
     color: #27187e;
     padding-left: 10px;
+=======
+    margin: auto;
+    padding: 10px;
+    background-color: #011627;
+    font-size: auto;
+}
+
+.NavBar .logo {
+    background-color: #011627;
+    border-radius: 10px;
+    border: 2px solid #e71d36;
+    height: 20px;
+    width: 60px;
+}
+.NavBar .logo:hover {
+    border-radius: 10px;
+    border: 2px solid #ff9f1c;
+>>>>>>> master
 }
 
 .NavBar .links {
@@ -16,7 +35,9 @@
 }
 
 .NavBar a {
+    color: #fdfffc;
     text-decoration: none;
+<<<<<<< HEAD
     padding-right: 10px;
     margin-left: 16px;
 }
@@ -25,3 +46,12 @@
     color: #ff8600;
     text-decoration: underline;
 }
+=======
+    padding-right: 15px;
+}
+
+.NavBar a:hover {
+    color: #ff9f1c;
+    text-decoration: underline;
+}
+>>>>>>> master
