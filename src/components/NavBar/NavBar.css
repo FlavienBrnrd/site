@@ -1,7 +1,35 @@
-.NavBar h1 {
-    
+.NavBar {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+    background-color: #011627;
+    font-size: auto;
+}
+
+.NavBar .logo {
+    background-color: #011627;
+    border-radius: 10px;
+    border: 2px solid #e71d36;
+    height: 20px;
+    width: 60px;
+}
+.NavBar .logo:hover {
+    border-radius: 10px;
+    border: 2px solid #ff9f1c;
+}
+
+.NavBar .links {
+    margin-left: auto;
 }
 
 .NavBar a {
+    color: #fdfffc;
     text-decoration: none;
+    padding-right: 15px;
+}
+
+.NavBar a:hover {
+    color: #ff9f1c;
+    text-decoration: underline;
 }

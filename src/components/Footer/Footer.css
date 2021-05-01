@@ -1,0 +1,24 @@
+.Footer {
+    font-size: auto;
+    text-align: center;
+    background-color: #011627;
+    color: #fdfffc;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.Footer a {
+    text-decoration: none;
+    color: #fdfffc;
+    margin: auto;
+    padding: 5px;
+}
+
+.Footer a:hover {
+    color: #ff9f1c;
+    text-decoration: underline;
+}
+
+
