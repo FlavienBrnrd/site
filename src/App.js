@@ -13,6 +13,11 @@ import Footer from './components/Footer/Footer';
 
 // Styles
 import './App.css';
+<<<<<<< HEAD
+import './components/NavBar/NavBar.css';
+import './components/Footer/Footer.css';
+=======
+>>>>>>> master
 
 // Main entry point
 function App() {
